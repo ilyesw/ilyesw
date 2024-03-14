@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Elyesftw?page=1&tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/ilyesw?page=1&tab=repositories)**.
 
 <br>
 <div align="center">
@@ -33,12 +33,12 @@
 ## 📊 My Stats:
 
 <p align="center">
-    <a href="https://github.com/Elyesftw/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Elyesftw's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elyesftw&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/ilyesw/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ilyesw's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyesw&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/Elyesftw/github-readme-stats"><img alt="Elyesftw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Elyesftw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Elyesftw/github-readme-stats"><img alt="Elyesftw's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyesftw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ilyesw/github-readme-stats"><img alt="ilyesw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ilyesw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ilyesw/github-readme-stats"><img alt="ilyesw's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyesw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 <div align="center">
@@ -55,7 +55,7 @@
   <a href="mailto:##">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://mostaql.com/u/Elyesftw/portfolio">
+        <a href="https://mostaql.com/u/ilyesw/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
     <a href="https://youtube.com/@##?si=bHNizIHn9dIL3jX7">
@@ -75,10 +75,10 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/Elyesftw/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Elyesftw">
+<a href="https://github.com/ilyesw/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ilyesw">
 </a>
-<a href="https://github.com/Elyesftw?tab=followers"><img src="https://img.shields.io/github/followers/Elyesftw?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ilyesw?tab=followers"><img src="https://img.shields.io/github/followers/ilyesw?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
